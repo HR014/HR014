@@ -4,7 +4,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hr014&label=Profile%20views&color=0e75b6&style=flat" alt="hr014" /> </p>
-<p align="Right"> <img src="https://drive.google.com/uc?export=view&id=[https://drive.google.com/drive/folders/1aAsm-4-RMvxZ9HMOBxsB0Os602u4cMho]" /> </p>
+<p align="Right"> <img src="https://drive.google.com/uc?export=view&id=[1aAsm-4-RMvxZ9HMOBxsB0Os602u4cMho]" /> </p>
 
 - 🔭 I’m currently working on **DSAS**
 
