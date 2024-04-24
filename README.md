@@ -4,7 +4,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hr014&label=Profile%20views&color=0e75b6&style=flat" alt="hr014" /> </p>
-<p align="Right"> <img src="https://skymerindia.com/wp-content/uploads/2023/07/skymerindia.com_.jpg" align= "right" width="200" height="300"/> </p>
+<p align="Right"> <img src="https://skymerindia.com/wp-content/uploads/2023/07/skymerindia.com_.jpg" align= "right" width="300" height="400"/> </p>
 
 - 🔭 I’m currently working on **DSAS**
 
