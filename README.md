@@ -9,10 +9,10 @@
 
 <p> <img src="https://skymerindia.com/wp-content/uploads/2023/07/skymerindia.com_.jpg" align= "left" width="200" height="300"/> </p>
 
-<p align="center"><pre><h3><samp><strong>Welcome to My GitHub profile, feel free to connect, collaborate, or clone/fork projects.
-If you have any suggestions drop me an email or connect me on social media, I would love 
-to hear your suggestions. Do raise issues and submit PRs if you think something could be 
-better. I'm Glad to know my projects helped you. 
+<p align="center"><pre><h3><samp><strong>Welcome to My GitHub profile, feel free to connect, collaborate, or clone/fork 
+projects. If you have any suggestions drop me an email or connect me on social media, 
+I would love to hear your suggestions. Do raise issues and submit PRs if you think 
+something could be better. I'm Glad to know my projects helped you. 
 Thank you Visit Again!!</strong></samp></h3><h4>Harsh Raja</h4></pre>
 
 <h4><i>Eat, Sleep, Code Repeat<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50"/><br>Happy Coding!</i> 😊</h4>
