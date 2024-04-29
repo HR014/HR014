@@ -13,7 +13,7 @@
 
 <p align="center"><h3><samp><strong>Welcome to My GitHub profile, feel free to connect, collaborate, or clone/fork 
 projects. If you have any suggestions drop me an email or connect me on social media, 
-I would love to hear your suggestions. Do raise issues and submit if you have any suggestions, you are most welcome!!
+I would love to hear your suggestions. Do raise issues and submit them if you find it in any repository, you are most welcome!!
 Thank you Visit Again!!</strong></samp></h3><h3>Harsh Raja</h3>
 
 <h3><i>Eat, Sleep, Code Repeat<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50"/><br></i></h3>
