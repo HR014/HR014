@@ -31,7 +31,7 @@ Thank you Visit Again!!</strong></samp></h3><h3>Harsh Raja</h3>
 - ✍️ Fun fact: Just trying to Explore, learn, and apply new things Every single Day!!😎<be>
 - 📫 How to reach me **harshraja91100@gmail.com**<br>
 
-<h4> <b><i align="center">Thought:<br>
+<h4> <b><i align="center">Quote:<br>
 <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> "Smile though your heart is aching; Smile even though it's breaking; When there are clouds in the sky, you'll get by”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" /></h4>
 
 <hr>
