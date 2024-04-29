@@ -17,7 +17,8 @@ I would love to hear your suggestions. Do raise issues and submit PRs if you thi
 something could be better. I'm Glad to know my projects helped you.<br>
 Thank you Visit Again!!</strong></samp></h3><h4>Harsh Raja</h4>
 
-<h3><i>Eat, Sleep, Code Repeat<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50"/><br>Happy Coding!</i> 😊</h3>
+<h3><i>Eat, Sleep, Code Repeat<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50"/><br></i></h3>
+<h2><i>Happy Coding!</i> 😊</h2>
 <hr>
 
 
