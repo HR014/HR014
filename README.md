@@ -52,6 +52,6 @@ Thank you Visit Again!!</strong></samp></h3><h5>Harsh Raja</h5></pre>
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hr014&show_icons=true&locale=en" alt="hr014"  width="300" height="300" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hr014&show_icons=true&locale=en" alt="hr014"  width="400" height="400" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hr014&" alt="hr014"  width="300" height="300"/></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hr014&" alt="hr014"  width="400" height="400"/></p>
