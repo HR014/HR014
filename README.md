@@ -13,8 +13,7 @@
 
 <p align="center"><h3><samp><strong>Welcome to My GitHub profile, feel free to connect, collaborate, or clone/fork 
 projects. If you have any suggestions drop me an email or connect me on social media, 
-I would love to hear your suggestions. Do raise issues and submit PRs if you think 
-something could be better. I'm Glad to know my projects helped you.
+I would love to hear your suggestions. Do raise issues and submit if you have any suggestions, you are most welcome!!
 Thank you Visit Again!!</strong></samp></h3><h3>Harsh Raja</h3>
 
 <h3><i>Eat, Sleep, Code Repeat<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50"/><br></i></h3>
@@ -36,7 +35,8 @@ Thank you Visit Again!!</strong></samp></h3><h3>Harsh Raja</h3>
 <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> "Smile though your heart is aching; Smile even though it's breaking; When there are clouds in the sky, you'll get by”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" /></h4>
 
 <hr>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Connect with me ....*** <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
+<p align="Left"><h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"" width="30px">&nbsp;Connect with me ....</h3></p>
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
 <p>
   
 <a href="https://linkedin.com/in/harsh-raja-91100r" target="_blank">
