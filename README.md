@@ -13,7 +13,7 @@
 projects. If you have any suggestions drop me an email or connect me on social media, 
 I would love to hear your suggestions. Do raise issues and submit PRs if you think 
 something could be better. I'm Glad to know my projects helped you. 
-Thank you Visit Again!!</strong></samp></h3><h4>Harsh Raja</h4></pre>
+Thank you Visit Again!!</strong></samp></h3><h5>Harsh Raja</h5></pre>
 
 <h4><i>Eat, Sleep, Code Repeat<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50"/><br>Happy Coding!</i> 😊</h4>
 <hr>
@@ -52,6 +52,6 @@ Thank you Visit Again!!</strong></samp></h3><h4>Harsh Raja</h4></pre>
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hr014&show_icons=true&locale=en" alt="hr014" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hr014&show_icons=true&locale=en" alt="hr014"  width="200" height="300" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hr014&" alt="hr014" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hr014&" alt="hr014"  width="200" height="300"/></p>
