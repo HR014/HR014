@@ -32,7 +32,7 @@ Thank you Visit Again!!</strong></samp></h3><h3>Harsh Raja</h3>
 - ✍️ Fun fact: Just trying to Explore, learn, and apply new things Every single Day!!😎<be>
 - 📫 How to reach me **harshraja91100@gmail.com**<br>
 
-<h4><img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought: "Smile though your heart is aching; Smile even though it's breaking;When there are clouds in the sky, you'll get by”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" /></h4>
+<h4><img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought:<br> "Smile though your heart is aching; Smile even though it's breaking; When there are clouds in the sky, you'll get by”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" /></h4>
 
 <hr>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Connect with me ....*** <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
