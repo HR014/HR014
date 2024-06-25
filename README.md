@@ -21,7 +21,7 @@ I would love to hear your suggestions. Do raise issues and submit them if you fi
 <hr>
 
 
-<p align="Left"><h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_About me_**</h3></p>
+<p align="Left"><h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;_About me_</h3></p>
 
 - 🤔 I use daily `Java`,` JS`, `And Python`
 - 🔭 I’m currently learning about **React**🥰<br>
