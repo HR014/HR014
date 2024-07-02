@@ -1,5 +1,5 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,I'm Harsh Raja</h1>
-<h3 align="center">A passionate Software Developer</h3>
+<h3 align="center"> A passionate Software Developer </h3>
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=hr014&label=Profile%20views&color=0e75b6&style=flat" alt="hr014" align= "left"/>
