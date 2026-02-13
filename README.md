@@ -1,57 +1,102 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,I'm Harsh Raja</h1>
-<h3 align="center"> A passionate Software Developer </h3>
+<h1 align="center">Hi 👋, I'm Harsh Raja</h1>
+<h3 align="center">Frontend / MERN Stack Engineer | Building Scalable Web Applications</h3>
 
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=hr014&label=Profile%20views&color=0e75b6&style=flat" alt="hr014" align= "left"/>
-<a href="https://linkedin.com/in/harsh-raja-91100r" target="_blank">
-<img src=https://https://drive.google.com/file/d/1BivX2qzGvIWGDaI4CX16QIQExMhJBm5N/view?usp=sharing?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hr014&label=Profile%20Views&color=405DE6&style=for-the-badge" alt="profile views" />
 </p>
 
+<p align="left">
+  <img src="https://drive.google.com/uc?export=view&id=1BivX2qzGvIWGDaI4CX16QIQExMhJBm5N" 
+       alt="Harsh Raja"
+       width="150"
+       align="left"
+       style="margin-right: 20px;" />
+</p>
 
-<p> <img src="https://skymerindia.com/wp-content/uploads/2023/07/skymerindia.com_.jpg" align= "left" width="200" height="300"/> </p>
+<p align="center">
+  <strong>
+    Welcome to my GitHub profile 👋 <br>
+    Feel free to explore, collaborate, fork, or contribute to any project. <br>
+    If you have suggestions or improvements, I’d genuinely love to hear from you. <br>
+    You’re always welcome to raise issues or connect with me.
+    <br><br>
+    Thanks for visiting — see you around! 🚀
+  </strong>
+</p>
 
-<p align="center"><h3><samp><strong>Welcome to My GitHub profile, feel free to connect, collaborate, or clone/fork 
-projects. If you have any suggestions drop me an email or connect me on social media, 
-I would love to hear your suggestions. Do raise issues and submit them if you find them in any repository, you are most welcome!!<be>
-<br>Thank you Visit Again!!<h3>Harsh Raja</h3></samp></strong>
+<h3 align="center">
+  <i>Eat. Sleep. Code. Repeat.
+  <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="40"/></i>
+</h3>
 
-<h3><i>Eat, Sleep, Code Repeat<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50"/><br></i></h3>
-<h2><i>Happy Coding!</i> 😊</h2>
-<hr>
+<br clear="left"/>
 
+---
 
-<p align="Left"><h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;_About me_</h3></p>
+## 👨‍💻 About Me
 
-- 🤔 I use daily `Java`,` JS`,`React`, `And Python`
-- 🔭 I’m currently learning about **React**🥰<br>
-- 🌱 I’m looking to collaborate on: **Jarvis Virtual Assistance.**
-- ⚡ I’m looking for help with anything **I am currently learning! 😅**.
-- 💬 Ask me about anything, and I am happy to help, if I fail **There is always one more bug to fix.😉**<br>
-- ✍️ Fun fact: Just trying to Explore, learn, and apply new things Every single Day!!😎<be>
-- 📫 How to reach me **harshraja91100@gmail.com**<br>
+- 💼 Engineer building scalable frontend and full-stack web applications  
+- ⚛️ Strong focus on **React, JavaScript, and REST API integration**  
+- 🛠️ Experience in Java, Python, and full-stack systems  
+- 🎯 Passionate about clean, modular, production-ready code  
+- 🌍 Based in Pune, India | Open to IT & Software opportunities  
 
-<h4> <b><i align="center">Quote:<br>
-<img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> "Smile though your heart is aching; Smile even though it's breaking; When there are clouds in the sky, you'll get by”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" /></h4>
+---
 
-<hr>
-<p align="Left"><h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"" width="30px">&nbsp;Connect with me ....</h3></p>
-<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
+## 🔭 Current Focus
+
+- Advanced React patterns & state management  
+- Clean architecture & structured API integration  
+- Full MERN stack expansion (Node.js, Express, MongoDB)  
+- Performance optimization & scalable systems  
+
+---
+
+## 🚀 Growth Direction
+
+- Designing robust **React dashboard systems**
+- Strengthening backend architecture with **Node.js & MongoDB**
+- Building scalable and maintainable frontend structures
+- Exploring data-driven and intelligent feature integration
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Employee Task Tracker (React Dashboard)
+- React-based task management dashboard  
+- REST API integration (GET, POST, PATCH)  
+- State management using React Hooks  
+
+### 🔹 Malgudi Cranes – Corporate Website
+- Responsive corporate website  
+- Business-focused UI implementation  
+
+---
+
+## 🛠️ Tech Stack
+
 <p>
-  
-<a href="https://linkedin.com/in/harsh-raja-91100r" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,express,mongodb,mysql,postgresql,git,github,docker,gcp,aws,linux,vscode,postman" />
 </p>
 
-<hr>
-<h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Technical Skills.....</h4>
-<p >
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,html,css,js,jquery,bootstrap,tailwind,react,nodejs,expressjs,gcp,aws,azure,mysql,postgresql,mongodb,firebase,ai,tensorflow,docker,github,postman,replit,linux,git,=8" />
+---
 
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hr014&hide_border=true" />
 </p>
 
-<hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hr014&show_icons=true&locale=en" alt="hr014"  width="400" height="400" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hr014&" alt="hr014"  width="400" height="400"/></p>
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/harsh-raja-91100r" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-405DE6?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:harshraja91100@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
