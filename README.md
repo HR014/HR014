@@ -4,7 +4,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=hr014&label=Profile%20views&color=0e75b6&style=flat" alt="hr014" align= "left"/>
 <a href="https://linkedin.com/in/harsh-raja-91100r" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://https://drive.google.com/file/d/1BivX2qzGvIWGDaI4CX16QIQExMhJBm5N/view?usp=sharing?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </p>
 
